@@ -1,4 +1,4 @@
-# YouTube 剧院模式清爽界面
+# ▶️ YouTube 剧院模式清爽界面
 
 [English](./README_EN.md) | 简体中文
 
