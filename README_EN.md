@@ -10,7 +10,6 @@ A simple userscript that optimizes YouTube theater mode viewing experience by hi
 - Hide video information and description
 - Hide related video recommendations
 - Hide merchandise shelf
-- Retain live chat (fixed width 400px)
 - Automatic page transition adaptation
 - Support for major browsers
 
