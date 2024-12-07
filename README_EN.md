@@ -1,4 +1,4 @@
-# ▶️YouTube Theater Clean
+# ▶️ YouTube Theater Clean
 
 English | [简体中文](./README.md)
 
