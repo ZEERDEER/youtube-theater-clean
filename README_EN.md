@@ -21,7 +21,7 @@ A simple userscript that optimizes YouTube theater mode viewing experience by hi
    - [Greasemonkey](https://www.greasespot.net/)
 
 2. Click the following link to install the script:
-   [Install Script](https://github.com/ZEERDEER/youtube-theather-clean/raw/main/youtube-theather-clean.js)
+   [Install Script](https://github.com/ZEERDEER/youtube-theater-clean/raw/main/youtube-theater-clean.js)
 
 ## 💻 Compatibility
 
