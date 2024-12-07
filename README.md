@@ -21,7 +21,7 @@
    - [Greasemonkey](https://www.greasespot.net/)
 
 2. 点击以下链接安装脚本：
-   [安装脚本](https://github.com/ZEERDEER/youtube-theather-clean/raw/main/youtube-theather-clean.js)
+   [安装脚本](https://github.com/ZEERDEER/youtube-theater-clean/raw/main/youtube-theater-clean.js)
 
 ## 💻 兼容性
 
