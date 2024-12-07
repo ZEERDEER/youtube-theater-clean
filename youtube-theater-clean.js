@@ -18,8 +18,8 @@
 // @connect      googleapis.com
 // @encoding     utf-8
 // @noframes     
-// @downloadURL  https://github.com/ZEERDEER/youtube-theather-clean/raw/main/youtube-theather-clean.js
-// @updateURL    https://github.com/ZEERDEER/youtube-theather-clean/raw/main/youtube-theather-clean.js
+// @downloadURL  https://github.com/ZEERDEER/youtube-theater-clean/raw/main/youtube-theater-clean.js
+// @updateURL    https://github.com/ZEERDEER/youtube-theater-clean/raw/main/youtube-theater-clean.js
 // ==/UserScript==
 
 (function() {
