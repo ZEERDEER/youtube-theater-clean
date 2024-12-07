@@ -69,12 +69,6 @@
                     margin-top: 0 !important;
                 }
 
-                /* 设置右侧聊天室区域的样式 */
-                ytd-watch-flexy[theater] #secondary {
-                    display: flex !important;
-                    width: 400px !important;
-                }
-
                 /* 调整主要内容区域的布局 */
                 ytd-watch-flexy[theater] #columns {
                     display: flex !important;
