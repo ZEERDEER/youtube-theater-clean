@@ -16,7 +16,6 @@
 // @run-at       document-end
 // @connect      youtube.com
 // @connect      googleapis.com
-// @require      https://code.jquery.com/jquery-3.6.0.min.js
 // @encoding     utf-8
 // @noframes     
 // @downloadURL  https://github.com/ZEERDEER/youtube-theather-clean/raw/main/youtube-theather-clean.js
